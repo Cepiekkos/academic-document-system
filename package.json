@@ -16,9 +16,6 @@
     "react-dom": "^18.3.1",
     "vite": "^6.0.5"
   },
-  "devDependencies": {
-    "@rollup/rollup-win32-x64-msvc": "^4.64.6"
-  },
   "allowScripts": {
     "esbuild@0.25.12": true
   }
